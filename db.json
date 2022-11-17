@@ -1,0 +1,39 @@
+{
+  "business-category": [
+    {
+      "bizName": "one",
+      "bizCode": "yes",
+      "bizDescription": "",
+      "parentId": "null",
+      "bizId": 4
+    },
+    {
+      "bizName": "dddd",
+      "bizCode": "dddd",
+      "bizDescription": "dddd",
+      "parentId": "null",
+      "bizId": 5
+    },
+    {
+      "bizName": "我是b的孩子",
+      "bizCode": "我是b的孩子",
+      "bizDescription": "ok",
+      "parentId": 1,
+      "bizId": 6
+    },
+    {
+      "bizName": "yes",
+      "bizCode": "yes",
+      "bizDescription": "ok",
+      "parentId": 2,
+      "bizId": 7
+    },
+    {
+      "bizName": "asdfaf",
+      "bizCode": "dadsf",
+      "bizDescription": "",
+      "parentId": 2,
+      "bizId": 8
+    }
+  ]
+}
